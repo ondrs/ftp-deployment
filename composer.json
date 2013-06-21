@@ -1,5 +1,5 @@
 {
-	"name": "dg/ftp-deployment",
+	"name": "ondrs/ftp-deployment",
 	"type": "tool",
 	"description": "A tool for automated deployment of web applications to an FTP server.",
 	"keywords": ["deployment", "ftp"],
@@ -9,6 +9,10 @@
 		{
 			"name": "David Grudl",
 			"homepage": "http://davidgrudl.com"
-		}
+		},
+        {
+            "name": "Ondrej Plsek",
+            "homepage": "http://ondraplsek.cz"
+        }
 	]
 }
